@@ -18,7 +18,7 @@ public class SampleBootProjectApplication {
 	
 	@GetMapping
 	public String viewDemo() {
-		return "Congrats!!!  Application deployed successfully";
+		return "Congrats!!!  Application deployed successfully. Second Test";
 	}
 
 }
